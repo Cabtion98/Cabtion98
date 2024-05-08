@@ -1,16 +1,44 @@
-### Hi there 👋
+## Hola! 👋
 
-<!--
-**Cabtion98/Cabtion98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi nombre es Darío Cancelli, tengo 25 años, vivo en Argentina, soy Data Scientist, Data Analyst y lo más importante, ¡un apasionado por los datos!
+* He creado proyectos de índole personal.
+* Tuve la posibilidad de ayudar a colegas con asesoramiento, limpieza y visualización de datos.
 
-Here are some ideas to get you started:
+## Habilidades 👨‍💻
+* Python
+* SQL
+* Power BI
+* Tableau
+* Excel
+* Data wrangling
+* ETL
+* Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto 📱
+
+* Número: 3584879888
+* Mail: dariocancelli@gmail.com
+* Linkedin: https://www.linkedin.com/in/dario-guillermo-cancelli/
+
+
+## Hi! 👋
+
+## My name is Darío Cancelli, I am 25 years old, I live in Argentina, I am a Data Scientist, Data Analyst and most importantly, passionate about data!
+* I have created personal projects.
+* I had the chance to help colleagues with consulting, cleaning and data visualization
+
+## Skills 👨‍💻
+* Python
+* SQL
+* Power BI
+* Tableau
+* Excel
+* Data wrangling
+* ETL
+* Machine Learning
+
+## Contact 📱
+
+* Number: 3584879888
+* Email: dariocancelli@gmail.com
+* Linkedin: https://www.linkedin.com/in/dario-guillermo-cancelli/
