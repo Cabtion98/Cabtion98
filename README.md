@@ -18,7 +18,7 @@
 
 * Número: 3584879888
 * Mail: dariocancelli@gmail.com
-* Linkedin: https://www.linkedin.com/in/dario-guillermo-cancelli/
+* Linkedin: https://www.linkedin.com/in/dariocancelli
 
 
 ## Hi! 👋
@@ -41,4 +41,4 @@
 
 * Number: 3584879888
 * Email: dariocancelli@gmail.com
-* Linkedin: https://www.linkedin.com/in/dario-guillermo-cancelli/
+* Linkedin: https://www.linkedin.com/in/dariocancelli
