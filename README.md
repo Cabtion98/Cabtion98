@@ -23,7 +23,7 @@
 
 ### Hi! 👋
 
-## My name is Darío Cancelli, I am 25 years old, I live in Argentina, I am a Data Scientist, Data Analyst and most importantly, passionate about data!
+### My name is Darío Cancelli, I am 25 years old, I live in Argentina, I am a Data Scientist, Data Analyst and most importantly, passionate about data!
 * I have created personal projects.
 * I had the chance to help colleagues with consulting, cleaning and data visualization
 
