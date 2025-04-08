@@ -19,17 +19,6 @@ Me destaco por ser **curioso, autodidacta y adaptable**, con experiencia ayudand
 
 ---
 
-## 🗂️ Proyectos Destacados
-
-| Proyecto | Descripción | Herramientas |
-|---------|-------------|--------------|
-| **[Análisis Financiero con SQL](#)** | Base de datos financiera para análisis temporal y de monedas. | SQL Server, Power BI |
-| **[Modelo Predictivo de Costos](#)** | Predicción de precios con regresión lineal y visualización en Power BI. | Python, Power BI |
-| **[Dashboard de Ventas para Ferretería](#)** | Dashboard interactivo para toma de decisiones en un negocio real. | Power BI, Excel |
-> (Podés reemplazar los `(#)` por los links reales a repos o dashboards en Power BI online/Tableau Public.)
-
----
-
 ## 💬 Sobre mí
 
 Siempre he sido una persona activa y curiosa. Mientras estudiaba, trabajé, me desafié y aprendí a liderar y adaptarme a distintos entornos. Incluso me mudé a otra provincia en busca de crecimiento.
